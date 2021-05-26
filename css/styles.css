@@ -1,0 +1,170 @@
+body {
+  margin: 0px;
+  color: #40514e;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+a {
+  color: #2b2e4a;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1.25rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaf6f6;
+}
+
+h1 {
+  color: #3fc1c9;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 5.625em;
+}
+
+h2 {
+  color: #3fc1c9;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 2.5rem;
+  margin-bottom: 40px;
+}
+
+h3 {
+  font-family: "Source Sans Pro", sans-serif;
+  color: #11999e;
+  font-size: 1.5rem;
+  /* text-align: left; */
+}
+
+p {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 1.2rem;
+  line-height: 2;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 5px;
+  width: 6.25rem;
+  margin: 100px auto 100px auto;
+  border-color: #caf7e3;
+}
+
+.btn {
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  height: 5px;
+  line-height: 5px;
+  color: #ffffff;
+  font-family: "Source Sans Pro", sans-serif;
+  width: 135px;
+  font-size: 20px;
+  font-weight: 300;
+  padding: 20px;
+  background-color: #3fc1c9;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.btn:hover {
+  background: #1e62d0;
+  border: solid #364f6b 1px;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  text-decoration: none;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-container {
+  background-color: #e3fdfd;
+  padding: 100px 0 100px 0;
+}
+
+.middle-container {
+  padding: 100px 0 0 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding: 25px 0 15px 0;
+}
+
+.top-cloud {
+  position: relative;
+  left: 400px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+}
+
+.top-heading {
+  font-weight: normal;
+}
+
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  margin: 6.25rem auto 10.9375rem auto;
+  width: 50%;
+}
+
+.cp-img {
+  width: 25%;
+  float: left;
+  padding-right: 1.875rem;
+}
+
+.ad-img {
+  width: 25%;
+  float: right;
+  padding-left: 1.875rem;
+}
+
+.wd-img {
+  width: 25%;
+  float: left;
+  padding-right: 1.875rem;
+}
+
+.profile-img {
+  width: 9.375rem;
+  height: 9.375rem;
+}
+
+.footer-link {
+  margin: 10px;
+}
+
+.contact-me {
+  margin: 80px auto 100px auto;
+}
+
+.intro {
+  width: 28.125rem;
+  margin: 0 auto 0 auto;
+}
+
+.copy-right {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  margin: 0 auto 0 auto;
+  padding-bottom: 20px;
+}
+
+.flaticon-copy-right {
+  color: #eaf6f6;
+  font-size: 0.75rem;
+  margin: 12px auto 0 auto;
+  padding-top: 20px;
+}
